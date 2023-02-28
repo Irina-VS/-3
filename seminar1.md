@@ -53,3 +53,6 @@ git diff
 ```
 git commit --amend -m"message"
 ```
+
+
+# Краткая инструкция по Markdown
